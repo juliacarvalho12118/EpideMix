@@ -13,7 +13,7 @@
 > - Introdução
 > - Fundamentação teórica
 > - Metodologia
-> - Resultado
+> - Resultados
 > - Conclusão
 > - Referencias
 

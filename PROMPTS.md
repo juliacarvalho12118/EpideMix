@@ -15,7 +15,7 @@
 > - Metodologia
 > - Resultados
 > - Conclusão
-> - Referências
+> - Referencias
 
 > No resumo, faça uma síntese clara do objetivo, metodologia e principais resultados da simulação. 
 > Na introdução, contextualize a importância dos modelos epidemiológicos. 

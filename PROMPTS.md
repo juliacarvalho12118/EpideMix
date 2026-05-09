@@ -7,15 +7,15 @@
 > Quero que você escreva um artigo científico sobre o projeto EpideMix, que implementa uma simulação computacional de doenças infectocontagiosas usando o modelo SIR com mortalidade, em Python. 
 
 > O artigo deve seguir normas acadêmicas (ABNT) e conter:
-    >- Título
-    >- Resumo
-    >- Palavras-chave
-    >- Introdução
-    >- Fundamentação teórica
-    >- Metodologia
-    >- Resultados
-    >- Conclusão
-    >- Referências
+> - Título
+> - Resumo
+> - Palavras-chave
+> - Introdução
+> - Fundamentação teórica
+> - Metodologia
+> - Resultados
+> - Conclusão
+> - Referências
 
 > No resumo, faça uma síntese clara do objetivo, metodologia e principais resultados da simulação. 
 > Na introdução, contextualize a importância dos modelos epidemiológicos. 
